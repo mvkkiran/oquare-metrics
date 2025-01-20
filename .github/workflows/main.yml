@@ -26,4 +26,4 @@ jobs:
       - name: OQuaRE module
         uses: tecnomod-um/oquare-metrics@v3.0
         with:
-          ontology-folders: ontologies
+          ontology-folders: ontologies ontologies/imports
